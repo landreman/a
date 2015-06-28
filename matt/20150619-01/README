@@ -1,0 +1,1 @@
+The run ...153.in has linear instability. The run ...163.in is similar but with weaker gradients and higher collisionality, such that there is no linear instability. I find that if I get turbulence started with run 153 and then restart with parameters 163, turbulence is not sustained, and the fluxes decay.
